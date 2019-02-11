@@ -1,4 +1,4 @@
-# Table of Contents
+# Doguhan Uluca
 
 1. [Websites](#websites)
 2. [Publications](#publications)
