@@ -1,4 +1,5 @@
 # Doguhan Uluca
+![du](https://secure.gravatar.com/avatar/7cbaa9afb5ca78d97f3c689f8ce6c985)
 
 1. [Websites](#websites)
 2. [Publications](#publications)
