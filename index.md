@@ -1,7 +1,7 @@
 # Doguhan Uluca
 ![du](https://secure.gravatar.com/avatar/7cbaa9afb5ca78d97f3c689f8ce6c985)
 
-Doguhan is the author of books Angular 6 for Enterprise-Ready Web Applications and Building Large-Scale Web Applications with Angular. He is a speaker at international conferences like Ng-Conf, Angular Mix, CodeStock, deliver:Agile and Agile XP. He is a full-stack JavaScript, Agile and Cloud engineering practitioner. Doguhan is the founder and director of the polyglot Tech Talk DC meetup and the creator of the DC Full Stack Web Summit conference. Doguhan is an active contributor to the open source community with libraries and tools published for JavaScript, Angular, Node and MongoDB. You can find more on Doguhan's latest work at TheJavaScriptPromise.com.  
+Doguhan is the author of books Angular 6 for Enterprise-Ready Web Applications and Building Large-Scale Web Applications with Angular. He is a speaker at international conferences like Ng-Conf, Angular Mix, CodeStock, deliver:Agile and Agile XP. He is a full-stack JavaScript, Agile and Cloud engineering practitioner. Doguhan is the founder and director of the polyglot Tech Talk DC meetup and the creator of the DC Full Stack Web Summit conference. Doguhan is an active contributor to the open source community with libraries and tools published for JavaScript, Angular, Node and MongoDB. You can find more on Doguhan's latest work at [TheJavaScriptPromise.com](https://TheJavaScriptPromise.com).  
 
 1. [Websites](#websites)
 2. [Publications](#publications)
@@ -13,29 +13,30 @@ Doguhan is the author of books Angular 6 for Enterprise-Ready Web Applications a
 
 # Websites
 
-*	The JavaScript Promise; Uluca, Doguhan. https://TheJavaScriptPromise.com. 
-* Angular For Enterprise; Uluca, Doguhan. https://AngularForEnterprise.com.
-*	Tech Talk DC; Uluca, D., et al. https://TechTalkDC.com.
-*	Excella Retro; Uluca, D., et al. https://retro.excella.com. 
+*	The JavaScript Promise; Uluca, Doguhan. [https://TheJavaScriptPromise.com](https://TheJavaScriptPromise.com). 
+* Angular For Enterprise; Uluca, Doguhan. [https://AngularForEnterprise.com](https://AngularForEnterprise.com).
+*	Tech Talk DC; Uluca, D., et al. [https://TechTalkDC.com](https://TechTalkDC.com).
+*	Excella Retro; Uluca, D., et al. [https://retro.excella.com](https://retro.excella.com). 
 
 # Publications
 * Building Large-Scale Web Applications with Angular; Arora, C., et al. Packt Publishing, December 2018. [Amazon Link](https://www.amazon.com/Building-Large-Scale-Applications-Angular-production-grade/dp/178995956X/ref=sr_1_4?keywords=uluca&qid=1549863219&s=gateway&sr=8-4)
 *	Angular 6 for Enterprise-Ready Web Applications; Uluca, Doguhan. Packt Publishing, May 2018. [Amazon Link](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-production-ready/dp/1786462907/ref=sr_1_1?keywords=uluca&qid=1549863219&s=gateway&sr=8-1).
-*	Excella Insights; Uluca Doguhan. https://www.excella.com/insights/author/doguhan-uluca.
-*	Modernize Your .NET Software Development Environment, Part 2; Uluca, Doguhan. DevPro. Penton Media, Apr 18, 2014. http://devproconnections.com/net-framework/modernize-your-net-software-development-environment-part-2. 
-*	Modernize Your .NET Software Development Environment; Uluca, Doguhan. DevPro. Penton Media, Jan 28, 2014. http://devproconnections.com/net-framework/modernize-net-software-development-environment. 
-*	MVVM and .NET: A Great Combo for Web Application Development; Uluca, Doguhan. DevPro. Penton Media, Oct 1, 2013. http://devproconnections.com/net-framework/mvvm-dot-net-web-application-development. 
-*	Designing Automated Handheld Navigation Support; Uluca, D., Streefkerk, J.W., Sciacchitano, B., McCrickard, D.S.; MobileHCI 2008, Proceedings of the 10th International Conference on Human-Computer Interaction with Mobile Devices and Services, Sep 2, 2008, Amsterdam, Netherlands.
+*	Excella Insights; Uluca Doguhan. [https://www.excella.com/insights/author/doguhan-uluca](https://www.excella.com/insights/author/doguhan-uluca).
+*	Modernize Your .NET Software Development Environment, Part 2; Uluca, Doguhan. DevPro. Penton Media, Apr 18, 2014. [http://devproconnections.com/net-framework/modernize-your-net-software-development-environment-part-2](http://devproconnections.com/net-framework/modernize-your-net-software-development-environment-part-2). 
+*	Modernize Your .NET Software Development Environment; Uluca, Doguhan. DevPro. Penton Media, Jan 28, 2014. [http://devproconnections.com/net-framework/modernize-net-software-development-environment](http://devproconnections.com/net-framework/modernize-net-software-development-environment). 
+*	MVVM and .NET: A Great Combo for Web Application Development; Uluca, Doguhan. DevPro. Penton Media, Oct 1, 2013. [http://devproconnections.com/net-framework/mvvm-dot-net-web-application-development](http://devproconnections.com/net-framework/mvvm-dot-net-web-application-development). 
+*	Designing Automated Handheld Navigation Support; Uluca, D., Streefkerk, J.W., Sciacchitano, B., McCrickard, D.S.; MobileHCI 2008, Proceedings of the 10th International Conference on Human-Computer Interaction with Mobile Devices and Services, Sep 2, 2008, Amsterdam, Netherlands. [Citation Link](https://dl.acm.org/citation.cfm?id=1409319).
 
 # Videos
-* Do More With Less JavaScript; Uluca, Doguhan. https://youtu.be/Sd1aM8181kc.
-* Angular vs React; Uluca, Doguhan. https://youtu.be/IQr5STWB_HM.
-* Full Stack TypeScript; Uluca, Doguhan. https://youtu.be/gi1neXh0uKE.
-* JavaScript Best Practices; Uluca, Doguhan. This Dot Media. https://youtu.be/hjDKnpq13c8.
+* Do More With Less JavaScript; Uluca, Doguhan. [https://youtu.be/Sd1aM8181kc](https://youtu.be/Sd1aM8181kc).
+* Angular vs React; Uluca, Doguhan. [https://youtu.be/IQr5STWB_HM](https://youtu.be/IQr5STWB_HM).
+* Full Stack TypeScript; Uluca, Doguhan. [https://youtu.be/gi1neXh0uKE](https://youtu.be/gi1neXh0uKE).
+* JavaScript Best Practices; Uluca, Doguhan. This Dot Media. [https://youtu.be/hjDKnpq13c8](https://youtu.be/hjDKnpq13c8).
 
 # Podcasts
-* Doguhan Uluca; My Angular Story Podcast, May, 2018. https://devchat.tv/my-angular-story/mas-035-doguhan-uluca.
-* Doing More with Less and Router-First Architecture; Adventures in Angular Podcast, March, 2018. https://devchat.tv/adv-in-angular/aia-181-doing-more-with-less-and-router-first-architecture-with-doguhan-uluca.
+* Demystifying CI and Delivery of Web Apps on the Cloud; Real Talk JavaScript, March, 2019. [https://realtalkjavascript.simplecast.fm/](https://realtalkjavascript.simplecast.fm/).
+* Doguhan Uluca; My Angular Story Podcast, May, 2018. [https://devchat.tv/my-angular-story/mas-035-doguhan-uluca](https://devchat.tv/my-angular-story/mas-035-doguhan-uluca).
+* Doing More with Less and Router-First Architecture; Adventures in Angular Podcast, March, 2018. [https://devchat.tv/adv-in-angular/aia-181-doing-more-with-less-and-router-first-architecture-with-doguhan-uluca](https://devchat.tv/adv-in-angular/aia-181-doing-more-with-less-and-router-first-architecture-with-doguhan-uluca).
 
 # Talks
 
@@ -48,7 +49,7 @@ Doguhan is the author of books Angular 6 for Enterprise-Ready Web Applications a
 * "Do More with Less: Full-Stack TypeScript", Microsoft Maniacs, 2017.
 * "Do More With Less JavaScript", CodeStock 2017.
 * "Angular vs React", CodeStock 2017.
-* "Do More With Less", http://bit.ly/DoMoreWithLessJS, ng-conf 2017.
+* "Do More With Less", [http://bit.ly/DoMoreWithLessJS](http://bit.ly/DoMoreWithLessJS), ng-conf 2017.
 * "Do More With Less: Full-Stack TypeScript", Open Source Dev Con 2017.
 * "Minimal MEAN", CodeStock 2016.
 * "Minimal MEAN", NOVA Code Camp 2016.
