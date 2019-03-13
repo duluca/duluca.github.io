@@ -1,7 +1,7 @@
 # Doguhan Uluca
 ![du](https://secure.gravatar.com/avatar/7cbaa9afb5ca78d97f3c689f8ce6c985)
 
-Doguhan is the author of books Angular 6 for Enterprise-Ready Web Applications and Building Large-Scale Web Applications with Angular. He is a speaker at international conferences like Ng-Conf, Angular Mix, CodeStock, deliver:Agile and Agile XP. He is a full-stack JavaScript, Agile and Cloud engineering practitioner. Doguhan is the founder and director of the polyglot Tech Talk DC meetup and the creator of the DC Full Stack Web Summit conference. Doguhan is an active contributor to the open source community with libraries and tools published for JavaScript, Angular, Node and MongoDB. You can find more on Doguhan's latest work at [TheJavaScriptPromise.com](https://TheJavaScriptPromise.com).  
+Doguhan is a Technical Fellow at Excella, based out of Washington, DC. He is the author of books Angular 6 for Enterprise-Ready Web Applications and Building Large-Scale Web Applications with Angular. He is a speaker at international conferences like Ng-Conf, Angular Mix, CodeStock, deliver:Agile and Agile XP. He is a full-stack JavaScript, Agile and Cloud engineering practitioner. Doguhan is the founder and director of the polyglot Tech Talk DC meetup and the creator of the DC Full Stack Web Summit conference. Doguhan is an active contributor to the open source community with libraries and tools published for JavaScript, Angular, Node and MongoDB. You can find more on Doguhan's latest work at [TheJavaScriptPromise.com](https://TheJavaScriptPromise.com).  
 
 1. [Websites](#websites)
 2. [Publications](#publications)
