@@ -1,2 +1,3 @@
-# duluca.github.io
-Doguhan Uluca
+# Doguhan Uluca
+List of publications, talks etc 
+https://duluca.github.io
