@@ -1,7 +1,7 @@
 # Doguhan Uluca
 ![du](https://secure.gravatar.com/avatar/7cbaa9afb5ca78d97f3c689f8ce6c985)
 
-Doguhan is a Technical Fellow at Excella, based out of Washington, DC. He is the author of books Angular 6 for Enterprise-Ready Web Applications and Building Large-Scale Web Applications with Angular. He is a speaker at international conferences like Ng-Conf, Angular Mix, CodeStock, deliver:Agile and Agile XP. He is a full-stack JavaScript, Agile and Cloud engineering practitioner. Doguhan is the founder and director of the polyglot Tech Talk DC meetup and the creator of the DC Full Stack Web Summit conference. Doguhan is an active contributor to the open source community with libraries and tools published for JavaScript, Angular, Node and MongoDB. You can find more on Doguhan's latest work at [TheJavaScriptPromise.com](https://TheJavaScriptPromise.com).  
+Doguhan is a Technical Fellow at Excella, based out of Washington, DC. He is the author of books Angular for Enterprise-Ready Web Applications and Building Large-Scale Web Applications with Angular. He is a speaker at international conferences like Ng-Conf, Angular Mix, CodeStock, deliver:Agile and Agile XP. He is a full-stack JavaScript, Agile and Cloud engineering practitioner. Doguhan is the founder and director of the polyglot Tech Talk DC meetup and the creator of the DC Full Stack Web Summit conference. Doguhan is an active contributor to the open source community with libraries and tools published for JavaScript, Angular, Node and MongoDB. You can find more on Doguhan's latest work at [TheJavaScriptPromise.com](https://TheJavaScriptPromise.com).  
 
 1. [Websites](#websites)
 2. [Publications](#publications)
@@ -40,6 +40,10 @@ Doguhan is a Technical Fellow at Excella, based out of Washington, DC. He is the
 
 # Talks
 
+* "Architecting Angular Apps for Scalability", Angular Denver 2019.
+* "Angular: Reactive Forms", AngularMix 2019.
+* "Minimal MEAN: Full-stack TypeScript", AngularMix 2019.
+* "The Agile Way to Architect Web Apps", XP 2019.
 * "Router-First Architecture in Angular Apps", AngularMix 2018.
 * "Router-First Architecture in Angular Apps", Angular DC, 2018.
 * "Ship It or It Never Happened: The Power of Docker, Heroku & CircleCI", Agile Portugal 2018.
