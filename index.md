@@ -34,7 +34,7 @@ Doguhan is a Technical Fellow at Excella, based out of Washington, DC. He is the
 * JavaScript Best Practices; Uluca, Doguhan. This Dot Media. [https://youtu.be/hjDKnpq13c8](https://youtu.be/hjDKnpq13c8).
 
 # Podcasts
-* Demystifying CI and Delivery of Web Apps on the Cloud; Real Talk JavaScript, March, 2019. [https://realtalkjavascript.simplecast.fm/](https://realtalkjavascript.simplecast.fm/).
+* Demystifying CI and Delivery of Web Apps on the Cloud; Real Talk JavaScript, March, 2019. [https://realtalkjavascript.simplecast.fm/2b38e7f2](https://realtalkjavascript.simplecast.fm/2b38e7f2).
 * Doguhan Uluca; My Angular Story Podcast, May, 2018. [https://devchat.tv/my-angular-story/mas-035-doguhan-uluca](https://devchat.tv/my-angular-story/mas-035-doguhan-uluca).
 * Doing More with Less and Router-First Architecture; Adventures in Angular Podcast, March, 2018. [https://devchat.tv/adv-in-angular/aia-181-doing-more-with-less-and-router-first-architecture-with-doguhan-uluca](https://devchat.tv/adv-in-angular/aia-181-doing-more-with-less-and-router-first-architecture-with-doguhan-uluca).
 
