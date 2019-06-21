@@ -1,6 +1,8 @@
 # Doguhan Uluca
 ![du](https://secure.gravatar.com/avatar/7cbaa9afb5ca78d97f3c689f8ce6c985)
 
+[Twitter](https://twitter.com/intent/user?screen_name=duluca) | [npm](https://www.npmjs.com/~duluca) | [Docker Hub](https://hub.docker.com/r/duluca/) | [Slides](https://slides.com/doguhanuluca)
+
 Doguhan is a Technical Fellow at Excella, based out of Washington, DC. He is the author of books Angular for Enterprise-Ready Web Applications and Building Large-Scale Web Applications with Angular. He is a speaker at international conferences like Ng-Conf, Angular Mix, CodeStock, deliver:Agile and Agile XP. He is a full-stack JavaScript, Agile and Cloud engineering practitioner. Doguhan is the founder and director of the polyglot Tech Talk DC meetup and the creator of the DC Full Stack Web Summit conference. Doguhan is an active contributor to the open source community with libraries and tools published for JavaScript, Angular, Node and MongoDB. You can find more on Doguhan's latest work at [TheJavaScriptPromise.com](https://TheJavaScriptPromise.com).  
 
 1. [Websites](#websites)
@@ -17,6 +19,7 @@ Doguhan is a Technical Fellow at Excella, based out of Washington, DC. He is the
 * Angular For Enterprise; Uluca, Doguhan. [https://AngularForEnterprise.com](https://AngularForEnterprise.com).
 *	Tech Talk DC; Uluca, D., et al. [https://TechTalkDC.com](https://TechTalkDC.com).
 *	Excella Retro; Uluca, D., et al. [https://retro.excella.com](https://retro.excella.com). 
+* DC Full Stack Web Summit; Uluca, D., et al. [https://dcfullstack.com](https://DCFullStack.com)
 
 # Publications
 * Building Large-Scale Web Applications with Angular; Arora, C., et al. Packt Publishing, December 2018. [Amazon Link](https://www.amazon.com/Building-Large-Scale-Applications-Angular-production-grade/dp/178995956X/ref=sr_1_4?keywords=uluca&qid=1549863219&s=gateway&sr=8-4)
