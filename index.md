@@ -42,14 +42,14 @@ Doguhan is a Technical Fellow at Excella, based out of Washington, DC. He is the
 # Talks
 
 * "Architecting Angular Apps for Scalability", Angular Denver 2019.
-* "Angular: Reactive Forms", AngularMix 2019.
-* "Minimal MEAN: Full-stack TypeScript", AngularMix 2019.
-* "The Agile Way to Architect Web Apps", XP 2019.
-* "Router-First Architecture in Angular Apps", AngularMix 2018.
+* "Angular: Reactive Forms", AngularMix 2019. [Slides](https://slides.com/doguhanuluca/angular-reactive-forms)
+* "Minimal MEAN: Full-stack TypeScript", AngularMix 2019. [Slides](https://slides.com/doguhanuluca/minimal-mean2)
+* "The Agile Way to Architect Web Apps", XP 2019. [Slides](https://slides.com/doguhanuluca/agile-web-app-architecture)
+* "Router-First Architecture in Angular Apps", AngularMix 2018. [Slides](https://slides.com/doguhanuluca/router-first-architecture)
 * "Router-First Architecture in Angular Apps", Angular DC, 2018.
-* "Ship It or It Never Happened: The Power of Docker, Heroku & CircleCI", Agile Portugal 2018.
+* "Ship It or It Never Happened: The Power of Docker, Heroku & CircleCI", Agile Portugal 2018. [Slides](https://slides.com/doguhanuluca/agile-pt18)
 * "Ship It or It Never Happened: The Power of Docker, Heroku & CircleCI", XP 2018.
-* "Ship It or It Never Happened: The Power of Docker, Heroku & CircleCI", deliver: Agile 2018.
+* "Ship It or It Never Happened: The Power of Docker, Heroku & CircleCI", deliver: Agile 2018. [Slides](https://slides.com/doguhanuluca/shipit-or-itneverhappened)
 * "How to Build an App with Angular 4 & Material 2", NOVA Code Camp 2017. 
 * "Do More with Less: Full-Stack TypeScript", Microsoft Maniacs, 2017.
 * "Do More With Less JavaScript", CodeStock 2017.
