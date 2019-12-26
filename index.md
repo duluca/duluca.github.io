@@ -1,7 +1,9 @@
 # Doguhan Uluca
-![du](https://secure.gravatar.com/avatar/7cbaa9afb5ca78d97f3c689f8ce6c985) [LinkedIn](https://www.linkedin.com/in/duluca/) | [Twitter](https://twitter.com/intent/user?screen_name=duluca) | [GitHub](https://github.com/duluca) | [npm](https://www.npmjs.com/~duluca) | [Docker Hub](https://hub.docker.com/r/duluca/) | [Slides](https://slides.com/doguhanuluca)
+![du](https://secure.gravatar.com/avatar/7cbaa9afb5ca78d97f3c689f8ce6c985) [LinkedIn](https://www.linkedin.com/in/duluca/) | [Twitter](https://twitter.com/intent/user?screen_name=duluca) | [GitHub](https://github.com/duluca) | [npm](https://www.npmjs.com/~duluca) | [Docker Hub](https://hub.docker.com/r/duluca/) | [Slides](https://slides.com/doguhanuluca) | [GDE Profile](https://developers.google.com/community/experts/directory/profile/profile-doguhan_uluca)
 
-Doguhan is a Technical Fellow at Excella, based out of Washington, DC. He is the author of books Angular for Enterprise-Ready Web Applications and Building Large-Scale Web Applications with Angular. He is a speaker at international conferences like Ng-Conf, Angular Mix, CodeStock, deliver:Agile and Agile XP. He is a full-stack JavaScript, Agile and Cloud engineering practitioner. Doguhan is the founder and director of the polyglot Tech Talk DC meetup and the creator of the DC Full Stack Web Summit conference. Doguhan is an active contributor to the open source community with libraries and tools published for JavaScript, Angular, Node and MongoDB. You can find more on Doguhan's latest work at [TheJavaScriptPromise.com](https://TheJavaScriptPromise.com).  
+> Google Developers Expert in Angular and Web Technologies, 2019.
+
+Doguhan Uluca is a technical fellow for Excella in Washington, DC and a Google Developers Expert in Angular and Web Technologies. He is a speaker, author, and a software development expert. Doguhan contributes to open-source software with libraries and tools published for JavaScript, Angular, Node, and MongoDB. As an author, he has published three books with Packt, including the best-selling Angular for Enterprise-Ready Web Applications, a paper on ACM and articles on IT Pro. Doguhan is an active participant in the DC tech community, founding and organizing the Tech Talk DC and Angular DC meetups. He enjoys teaching software engineering from fundamentals to advanced design patterns with practical implementations that are easy to learn and maintain. Doguhan organized the DC Full-Stack Web Summit in 2017. He has presented at conferences, such as Ng-Conf, Angular Mix, Angular Denver, CodeStock, deliver:Agile and Agile XP. Doguhan enjoys recording music, playing Go, and mixology.
 
 1. [Websites](#websites)
 2. [Publications](#publications)
@@ -13,13 +15,15 @@ Doguhan is a Technical Fellow at Excella, based out of Washington, DC. He is the
 
 # Websites
 
-*	The JavaScript Promise; Uluca, Doguhan. [https://TheJavaScriptPromise.com](https://TheJavaScriptPromise.com). 
 * Angular For Enterprise; Uluca, Doguhan. [https://AngularForEnterprise.com](https://AngularForEnterprise.com).
+* Angular Evergreen; Uluca, D., et al. [https://AngularEvergreen.com](https://AngularEvergreen.com).
+*	The JavaScript Promise; Uluca, Doguhan. [https://TheJavaScriptPromise.com](https://TheJavaScriptPromise.com). 
 *	Tech Talk DC; Uluca, D., et al. [https://TechTalkDC.com](https://TechTalkDC.com).
 *	Excella Retro; Uluca, D., et al. [https://retro.excella.com](https://retro.excella.com). 
 * DC Full Stack Web Summit; Uluca, D., et al. [https://dcfullstack.com](https://DCFullStack.com)
 
 # Publications
+* Angular for Enterprise-Ready Web Applications, 2nd Edition; Uluca, Doguhan. Packt Publishing, Jan 2019. [Amazon Link](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-production-grade/dp/1838648801/ref=sr_1_1?keywords=angular+for+enterprise&qid=1577373138&sr=8-1)
 * Building Large-Scale Web Applications with Angular; Arora, C., et al. Packt Publishing, December 2018. [Amazon Link](https://www.amazon.com/Building-Large-Scale-Applications-Angular-production-grade/dp/178995956X/ref=sr_1_4?keywords=uluca&qid=1549863219&s=gateway&sr=8-4)
 *	Angular 6 for Enterprise-Ready Web Applications; Uluca, Doguhan. Packt Publishing, May 2018. [Amazon Link](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-production-ready/dp/1786462907/ref=sr_1_1?keywords=uluca&qid=1549863219&s=gateway&sr=8-1).
 *	Excella Insights; Uluca Doguhan. [https://www.excella.com/insights/author/doguhan-uluca](https://www.excella.com/insights/author/doguhan-uluca).
@@ -30,6 +34,7 @@ Doguhan is a Technical Fellow at Excella, based out of Washington, DC. He is the
 *	Designing Automated Handheld Navigation Support; Uluca, D., Streefkerk, J.W., Sciacchitano, B., McCrickard, D.S.; MobileHCI 2008, Proceedings of the 10th International Conference on Human-Computer Interaction with Mobile Devices and Services, Sep 2, 2008, Amsterdam, Netherlands. [Citation Link](https://dl.acm.org/citation.cfm?id=1409319).
 
 # Videos
+* Angular Denver '19: Architecting Angular Apps for Scalability; Uluca, Doguhan. [Pluralsight Link](https://www.pluralsight.com/courses/angular-denver-2019-session-28).
 * Do More With Less JavaScript; Uluca, Doguhan. [https://youtu.be/Sd1aM8181kc](https://youtu.be/Sd1aM8181kc).
 * Angular vs React; Uluca, Doguhan. [https://youtu.be/IQr5STWB_HM](https://youtu.be/IQr5STWB_HM).
 * Full Stack TypeScript; Uluca, Doguhan. [https://youtu.be/gi1neXh0uKE](https://youtu.be/gi1neXh0uKE).
@@ -42,9 +47,11 @@ Doguhan is a Technical Fellow at Excella, based out of Washington, DC. He is the
 
 # Talks
 
+* "Architecting Angular Apps for Scalability", AngularMix Las Vegas 2019. [Slides](https://slides.com/doguhanuluca/architecture-for-scalable-angular-apps)
+* "Minimal MEAN: Full-stack TypeScript", AngularMix Las Vegas 2019. [Slides](https://slides.com/doguhanuluca/minimal-mean2)
 * "Architecting Angular Apps for Scalability", Angular Denver 2019.
-* "Angular: Reactive Forms", AngularMix 2019. [Slides](https://slides.com/doguhanuluca/angular-reactive-forms)
-* "Minimal MEAN: Full-stack TypeScript", AngularMix 2019. [Slides](https://slides.com/doguhanuluca/minimal-mean2)
+* "Angular: Reactive Forms", AngularMix Orlando 2019. [Slides](https://slides.com/doguhanuluca/angular-reactive-forms)
+* "Minimal MEAN: Full-stack TypeScript", AngularMix Orlando 2019. [Slides](https://slides.com/doguhanuluca/minimal-mean2)
 * "The Agile Way to Architect Web Apps", XP 2019. [Slides](https://slides.com/doguhanuluca/agile-web-app-architecture)
 * "Router-First Architecture in Angular Apps", AngularMix 2018. [Slides](https://slides.com/doguhanuluca/router-first-architecture)
 * "Router-First Architecture in Angular Apps", Angular DC, 2018.
@@ -86,3 +93,5 @@ Doguhan is a Technical Fellow at Excella, based out of Washington, DC. He is the
 *	Microsoft Specialist: Programming in C# – 2013
 *	Certified Scrum Master (CSM) – 2013
 *	Certified Scrum Product Owner (CSPO) – 2012
+
+![2019-GDE-Web-and-Angular-Profile-Badge](https://user-images.githubusercontent.com/822159/71481109-88c96b00-27ca-11ea-8568-510c946538dd.png)
