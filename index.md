@@ -23,7 +23,7 @@ Doguhan Uluca is a technical fellow for Excella in Washington, DC and a Google D
 * DC Full Stack Web Summit; Uluca, D., et al. [https://dcfullstack.com](https://DCFullStack.com)
 
 # Publications
-* Angular for Enterprise-Ready Web Applications, 2nd Edition; Uluca, Doguhan. Packt Publishing, Jan 2019. [Amazon Link](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-production-grade/dp/1838648801/ref=sr_1_1?keywords=angular+for+enterprise&qid=1577373138&sr=8-1)
+* Angular for Enterprise-Ready Web Applications, 2nd Edition; Uluca, Doguhan. Packt Publishing, Apr 2020. [Amazon Link](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-production-grade/dp/1838648801/ref=sr_1_1?keywords=angular+for+enterprise&qid=1577373138&sr=8-1)
 * Building Large-Scale Web Applications with Angular; Arora, C., et al. Packt Publishing, December 2018. [Amazon Link](https://www.amazon.com/Building-Large-Scale-Applications-Angular-production-grade/dp/178995956X/ref=sr_1_4?keywords=uluca&qid=1549863219&s=gateway&sr=8-4)
 *	Angular 6 for Enterprise-Ready Web Applications; Uluca, Doguhan. Packt Publishing, May 2018. [Amazon Link](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-production-ready/dp/1786462907/ref=sr_1_1?keywords=uluca&qid=1549863219&s=gateway&sr=8-1).
 *	Excella Insights; Uluca Doguhan. [https://www.excella.com/insights/author/doguhan-uluca](https://www.excella.com/insights/author/doguhan-uluca).
