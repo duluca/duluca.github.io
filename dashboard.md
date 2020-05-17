@@ -29,4 +29,4 @@
 
 ## ![](ng-evergreen-logo-32.png) Angular Evergreen 
 
-[![CircleCI](https://circleci.com/gh/expertly-simple/angular-evergreen.png)](https://circleci.com/gh/expertly-simple/angular-evergreen/tree/master)
+[![CircleCI](https://circleci.com/gh/expertly-simple/angular-evergreen/tree/master.svg?style=svg)](https://circleci.com/gh/expertly-simple/angular-evergreen/tree/master)
