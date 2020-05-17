@@ -1,8 +1,4 @@
-# CI-Dashboard
-
 ## LocalCast Weather
-
-> View live demo: https://localcast-weather.duluca.now.sh/
 
 [![CircleCI](https://circleci.com/gh/duluca/local-weather-app/tree/master.svg?style=svg)](https://circleci.com/gh/duluca/local-weather-app/tree/master)
 [![DeepScan grade](https://deepscan.io/api/teams/1906/projects/5034/branches/39254/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=1906&pid=5034&bid=39254)
