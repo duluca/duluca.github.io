@@ -15,15 +15,16 @@ Doguhan Uluca is a technical fellow for Excella in Washington, DC and a Google D
 
 # Websites
 
+* Expertly Simple; Uluca, D., et al. https://expertlysimple.io
 * Angular For Enterprise; Uluca, Doguhan. [https://AngularForEnterprise.com](https://AngularForEnterprise.com).
 * Angular Evergreen; Uluca, D., et al. [https://AngularEvergreen.com](https://AngularEvergreen.com).
 *	The JavaScript Promise; Uluca, Doguhan. [https://TheJavaScriptPromise.com](https://TheJavaScriptPromise.com). 
 *	Tech Talk DC; Uluca, D., et al. [https://TechTalkDC.com](https://TechTalkDC.com).
-*	Excella Retro; Uluca, D., et al. [https://retro.excella.com](https://retro.excella.com). 
 * DC Full Stack Web Summit; Uluca, D., et al. [https://dcfullstack.com](https://DCFullStack.com)
 
 # Publications
-* Angular for Enterprise-Ready Web Applications, 2nd Edition; Uluca, Doguhan. Packt Publishing, Apr 2020. [Amazon Link](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-production-grade/dp/1838648801/ref=sr_1_1?keywords=angular+for+enterprise&qid=1577373138&sr=8-1)
+
+* Angular for Enterprise-Ready Web Applications, 2nd Edition; Uluca, Doguhan. Packt Publishing, June 2020. [Amazon Link](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-production-grade/dp/1838648801/ref=sr_1_1?keywords=angular+for+enterprise&qid=1577373138&sr=8-1)
 * Building Large-Scale Web Applications with Angular; Arora, C., et al. Packt Publishing, December 2018. [Amazon Link](https://www.amazon.com/Building-Large-Scale-Applications-Angular-production-grade/dp/178995956X/ref=sr_1_4?keywords=uluca&qid=1549863219&s=gateway&sr=8-4)
 *	Angular 6 for Enterprise-Ready Web Applications; Uluca, Doguhan. Packt Publishing, May 2018. [Amazon Link](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-production-ready/dp/1786462907/ref=sr_1_1?keywords=uluca&qid=1549863219&s=gateway&sr=8-1).
 *	Excella Insights; Uluca Doguhan. [https://www.excella.com/insights/author/doguhan-uluca](https://www.excella.com/insights/author/doguhan-uluca).
@@ -34,6 +35,9 @@ Doguhan Uluca is a technical fellow for Excella in Washington, DC and a Google D
 *	Designing Automated Handheld Navigation Support; Uluca, D., Streefkerk, J.W., Sciacchitano, B., McCrickard, D.S.; MobileHCI 2008, Proceedings of the 10th International Conference on Human-Computer Interaction with Mobile Devices and Services, Sep 2, 2008, Amsterdam, Netherlands. [Citation Link](https://dl.acm.org/citation.cfm?id=1409319).
 
 # Videos
+
+* Angular Unfiltered; Roberts, Brandon and Uluca, Doguhan. https://www.youtube.com/watch?v=8O38fwtDMPk&t=11s
+* Intro to Angular for Enterprise Ready Web Applications; Uluca, Doguhan. https://www.youtube.com/watch?v=5IBPCktMprI
 * Angular Denver '19: Architecting Angular Apps for Scalability; Uluca, Doguhan. [Pluralsight Link](https://www.pluralsight.com/courses/angular-denver-2019-session-28).
 * Do More With Less JavaScript; Uluca, Doguhan. [https://youtu.be/Sd1aM8181kc](https://youtu.be/Sd1aM8181kc).
 * Angular vs React; Uluca, Doguhan. [https://youtu.be/IQr5STWB_HM](https://youtu.be/IQr5STWB_HM).
@@ -41,14 +45,17 @@ Doguhan Uluca is a technical fellow for Excella in Washington, DC and a Google D
 * JavaScript Best Practices; Uluca, Doguhan. This Dot Media. [https://youtu.be/hjDKnpq13c8](https://youtu.be/hjDKnpq13c8).
 
 # Podcasts
+
+* Angular for Enterprise-Ready Web Apps; Adventures in Angular Podcast, February, 2020. https://devchat.tv/adv-in-angular/aia-279-angular-for-enterprise-ready-web-apps-with-doguhan-uluca/
 * Demystifying CI and Delivery of Web Apps on the Cloud; Real Talk JavaScript, March, 2019. [https://realtalkjavascript.simplecast.fm/2b38e7f2](https://realtalkjavascript.simplecast.fm/2b38e7f2).
 * Doguhan Uluca; My Angular Story Podcast, May, 2018. [https://devchat.tv/my-angular-story/mas-035-doguhan-uluca](https://devchat.tv/my-angular-story/mas-035-doguhan-uluca).
 * Doing More with Less and Router-First Architecture; Adventures in Angular Podcast, March, 2018. [https://devchat.tv/adv-in-angular/aia-181-doing-more-with-less-and-router-first-architecture-with-doguhan-uluca](https://devchat.tv/adv-in-angular/aia-181-doing-more-with-less-and-router-first-architecture-with-doguhan-uluca).
 
 # Talks
 
-* "Architecting Angular Apps for Scalability", AngularMix Las Vegas 2019. [Slides](https://slides.com/doguhanuluca/architecture-for-scalable-angular-apps)
-* "Minimal MEAN: Full-stack TypeScript", AngularMix Las Vegas 2019. [Slides](https://slides.com/doguhanuluca/minimal-mean2)
+* "An Agile Way to Architect Web Apps", XP 2020, [Slides](https://slides.com/doguhanuluca/the-agile-way-to-architect-web-apps)
+* "Architecting Angular Apps for Scalability", AngularMix, Las Vegas 2019. [Slides](https://slides.com/doguhanuluca/architecture-for-scalable-angular-apps)
+* "Minimal MEAN: Full-stack TypeScript", AngularMix, Las Vegas 2019. [Slides](https://slides.com/doguhanuluca/minimal-mean2)
 * "Architecting Angular Apps for Scalability", Angular Denver 2019.
 * "Angular: Reactive Forms", AngularMix Orlando 2019. [Slides](https://slides.com/doguhanuluca/angular-reactive-forms)
 * "Minimal MEAN: Full-stack TypeScript", AngularMix Orlando 2019. [Slides](https://slides.com/doguhanuluca/minimal-mean2)
