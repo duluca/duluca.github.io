@@ -53,6 +53,8 @@ Doguhan Uluca is a technical fellow for Excella in Washington, DC and a Google D
 
 # Talks
 
+*	“Crafting Reliable and Testable Code with TypeScript”, Reliable Web Summit 2021.
+*	“Minimal MEAN: Full-stack TypeScript”, Angular NA Meetup, 2021.
 * "An Agile Way to Architect Web Apps", XP 2020, [Slides](https://slides.com/doguhanuluca/the-agile-way-to-architect-web-apps)
 * "Architecting Angular Apps for Scalability", AngularMix, Las Vegas 2019. [Slides](https://slides.com/doguhanuluca/architecture-for-scalable-angular-apps)
 * "Minimal MEAN: Full-stack TypeScript", AngularMix, Las Vegas 2019. [Slides](https://slides.com/doguhanuluca/minimal-mean2)
