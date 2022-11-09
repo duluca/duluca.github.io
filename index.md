@@ -46,6 +46,8 @@ Doguhan Uluca is a technical fellow for Excella in Washington, DC and a Google D
 
 # Podcasts
 
+* Doguhan Uluca on No Speed Limits in Life; Dev.Life, September, 2022. [https://podcasts.apple.com/us/podcast/dev-life/id1576779576?i=1000578406403](https://podcasts.apple.com/us/podcast/dev-life/id1576779576?i=1000578406403)
+* Doguhan Uluca Tale: of a Turk in Tech; Dev.Life, June, 2022. [https://podcasts.apple.com/us/podcast/dev-life/id1576779576?i=1000567824473](https://podcasts.apple.com/us/podcast/dev-life/id1576779576?i=1000567824473)
 * Angular for Enterprise-Ready Web Apps; Adventures in Angular Podcast, February, 2020. [https://devchat.tv/adv-in-angular/aia-279-angular-for-enterprise-ready-web-apps-with-doguhan-uluca/](https://devchat.tv/adv-in-angular/aia-279-angular-for-enterprise-ready-web-apps-with-doguhan-uluca/)
 * Demystifying CI and Delivery of Web Apps on the Cloud; Real Talk JavaScript, March, 2019. [https://realtalkjavascript.simplecast.fm/2b38e7f2](https://realtalkjavascript.simplecast.fm/2b38e7f2).
 * Doguhan Uluca; My Angular Story Podcast, May, 2018. [https://devchat.tv/my-angular-story/mas-035-doguhan-uluca](https://devchat.tv/my-angular-story/mas-035-doguhan-uluca).
