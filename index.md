@@ -55,6 +55,8 @@ Doguhan Uluca is a technical fellow for Excella in Washington, DC and a Google D
 
 # Talks
 
+* Intro to Qwik: The Answer to Web App Scalability Issues, Frontrunners, December 2022. 
+* "Five Ways to Make Sure Your Angular Code is Agile", Angular Community Meetup, April 2022. [Video](https://www.youtube.com/watch?v=VG0veoFKX_w&t=2128s).
 *	“Crafting Reliable and Testable Code with TypeScript”, Reliable Web Summit 2021.
 *	“Minimal MEAN: Full-stack TypeScript”, Angular NA Meetup, 2021.
 * "An Agile Way to Architect Web Apps", XP 2020, [Slides](https://slides.com/doguhanuluca/the-agile-way-to-architect-web-apps)
