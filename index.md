@@ -1,9 +1,9 @@
 # Doguhan Uluca
-![du](https://secure.gravatar.com/avatar/7cbaa9afb5ca78d97f3c689f8ce6c985) [LinkedIn](https://www.linkedin.com/in/duluca/) | [Twitter](https://twitter.com/intent/user?screen_name=duluca) | [GitHub](https://github.com/duluca) | [npm](https://www.npmjs.com/~duluca) | [Docker Hub](https://hub.docker.com/r/duluca/) | [Slides](https://slides.com/doguhanuluca) | [GDE Profile](https://developers.google.com/community/experts/directory/profile/profile-doguhan_uluca)
+![du](https://secure.gravatar.com/avatar/7cbaa9afb5ca78d97f3c689f8ce6c985) [LinkedIn](https://www.linkedin.com/in/duluca/) | [Twitter](https://twitter.com/intent/user?screen_name=duluca) | [GitHub](https://github.com/duluca) | [npm](https://www.npmjs.com/~duluca) | [Docker Hub](https://hub.docker.com/r/duluca/) | [Slides](https://slides.com/doguhanuluca)
 
-> Google Developers Expert in Angular and Web Technologies, (2019 - Current).
+> Google Developers Expert in Angular and Web Technologies, (2019 - 2022).
 
-Doguhan Uluca is a technical fellow for Excella in Washington, DC and a Google Developers Expert in Angular and Web Technologies. He is a speaker, author, and a software development expert. Doguhan contributes to open-source software with libraries and tools published for JavaScript, Angular, Node, and MongoDB. As an author, he has published three books with Packt, including the best-selling Angular for Enterprise-Ready Web Applications, a paper on ACM and articles on IT Pro. Doguhan is an active participant in the DC tech community, founding and organizing the Tech Talk DC and Angular DC meetups. He enjoys teaching software engineering from fundamentals to advanced design patterns with practical implementations that are easy to learn and maintain. Doguhan organized the DC Full-Stack Web Summit in 2017. He has presented at conferences, such as Ng-Conf, Angular Mix, Angular Denver, CodeStock, deliver:Agile and Agile XP. Doguhan enjoys recording music, playing Go, and mixology.
+Doguhan Uluca is a Principal Fellow at Excella in Washington, DC and a GDE Alumni. He is a speaker, author, and a software development expert. Doguhan contributes to open-source software with libraries and tools published for JavaScript, Angular, Node, and MongoDB. As an author, he has published three books with Packt, including the best-selling Angular for Enterprise-Ready Web Applications, a paper on ACM and articles on IT Pro. Doguhan is an active participant in the DC tech community, founding and organizing the Tech Talk DC and Angular DC meetups. He enjoys teaching software engineering from fundamentals to advanced design patterns with practical implementations that are easy to learn and maintain. Doguhan organized the DC Full-Stack Web Summit in 2017. He has presented at conferences, such as Ng-Conf, Angular Mix, Angular Denver, CodeStock, deliver:Agile and Agile XP. Doguhan enjoys recording music, playing Go, and mixology.
 
 1. [Websites](#websites)
 2. [Publications](#publications)
@@ -55,7 +55,7 @@ Doguhan Uluca is a technical fellow for Excella in Washington, DC and a Google D
 
 # Talks
 
-* Intro to Qwik: The Answer to Web App Scalability Issues, Frontrunners, December 2022. 
+* Intro to Qwik: The Answer to Web App Scalability Issues, Frontrunners, March 2023. 
 * "Five Ways to Make Sure Your Angular Code is Agile", Angular Community Meetup, April 2022. [Video](https://www.youtube.com/watch?v=VG0veoFKX_w&t=2128s).
 *	“Crafting Reliable and Testable Code with TypeScript”, Reliable Web Summit 2021.
 *	“Minimal MEAN: Full-stack TypeScript”, Angular NA Meetup, 2021.
