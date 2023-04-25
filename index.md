@@ -55,7 +55,7 @@ Doguhan Uluca is a Principal Fellow at Excella in Washington, DC and a GDE Alumn
 
 # Talks
 
-* Intro to Qwik: The Answer to Web App Scalability Issues, Frontrunners, March 2023. 
+* Intro to Qwik: The Answer to Web App Scalability Issues, Frontrunners, March 2023. [Video](https://www.youtube.com/watch?v=QDqp_qTa4Ww&list=PLeGxIOPLk9ELZl2gt05fBQwTkNnQcwwzS&t=38s).
 * "Five Ways to Make Sure Your Angular Code is Agile", Angular Community Meetup, April 2022. [Video](https://www.youtube.com/watch?v=VG0veoFKX_w&t=2128s).
 *	“Crafting Reliable and Testable Code with TypeScript”, Reliable Web Summit 2021.
 *	“Minimal MEAN: Full-stack TypeScript”, Angular NA Meetup, 2021.
