@@ -96,6 +96,7 @@ Doguhan Uluca is a Principal Fellow at Excella in Washington, DC and a GDE Alumn
 *	JavaScript and Node.JS Workshop; Uluca, Doguhan. Aug 2014.
 
 # Certifications
+*	Excella Senior Leadership Assessment Program - 2021
 *	Excella Leadership Development Program Level II (3 days) – 2017
 *	Architecting on AWS – 2017
 *	Excella Leadership Development Program Level I (4 days) – 2016
