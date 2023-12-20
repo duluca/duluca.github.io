@@ -1,9 +1,9 @@
 # Doguhan Uluca
 ![du](https://secure.gravatar.com/avatar/7cbaa9afb5ca78d97f3c689f8ce6c985) [LinkedIn](https://www.linkedin.com/in/duluca/) | [Twitter](https://twitter.com/intent/user?screen_name=duluca) | [GitHub](https://github.com/duluca) | [npm](https://www.npmjs.com/~duluca) | [Docker Hub](https://hub.docker.com/r/duluca/) | [Slides](https://slides.com/doguhanuluca)
 
-> Google Developers Expert in Angular and Web Technologies, (2019 - 2022).
+> Google Developers Expert in Angular and Web Technologies (2019 - 2022).
 
-Doguhan Uluca is a Principal Fellow at Excella in Washington, DC and a GDE Alumni. He is a speaker, author, and a software development expert. Doguhan contributes to open-source software with libraries and tools published for JavaScript, Angular, Node, and MongoDB. As an author, he has published three books with Packt, including the best-selling Angular for Enterprise-Ready Web Applications, a paper on ACM and articles on IT Pro. Doguhan is an active participant in the DC tech community, founding and organizing the Tech Talk DC and Angular DC meetups. He enjoys teaching software engineering from fundamentals to advanced design patterns with practical implementations that are easy to learn and maintain. Doguhan organized the DC Full-Stack Web Summit in 2017. He has presented at conferences, such as Ng-Conf, Angular Mix, Angular Denver, CodeStock, deliver:Agile and Agile XP. Doguhan enjoys recording music, playing Go, and mixology.
+Doguhan Uluca is a Principal Fellow at Excella in Washington, DC, and a GDE Alumni. He is a speaker, author, and software development expert. Doguhan contributes to open-source software with libraries and tools published for JavaScript, Angular, Node, and MongoDB. As an author, he has published three books with Packt, including the best-selling Angular for Enterprise-Ready Web Applications, a paper on ACM, and articles on IT Pro. Doguhan is an active participant in the DC tech community, founding and organizing the Tech Talk DC and Angular DC meetups. He enjoys teaching software engineering from fundamentals to advanced design patterns with practical implementations that are easy to learn and maintain. Doguhan organized the DC Full-Stack Web Summit in 2017. He has presented at conferences, such as Ng-Conf, Angular Mix, Angular Denver, CodeStock, deliver:Agile, and Agile XP. Doguhan enjoys recording music, playing Go, and mixology.
 
 1. [Websites](#websites)
 2. [Publications](#publications)
@@ -24,6 +24,7 @@ Doguhan Uluca is a Principal Fellow at Excella in Washington, DC and a GDE Alumn
 
 # Publications
 
+* Angular for Enterprise Applications, 3rd Edition; Uluca, Doguhan. Packt Publishing, January 2024 (planned).
 * Angular for Enterprise-Ready Web Applications, 2nd Edition; Uluca, Doguhan. Packt Publishing, June 2020. [Amazon Link](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-production-grade/dp/1838648801/ref=sr_1_1?keywords=angular+for+enterprise&qid=1577373138&sr=8-1)
 * Building Large-Scale Web Applications with Angular; Arora, C., et al. Packt Publishing, December 2018. [Amazon Link](https://www.amazon.com/Building-Large-Scale-Applications-Angular-production-grade/dp/178995956X/ref=sr_1_4?keywords=uluca&qid=1549863219&s=gateway&sr=8-4)
 *	Angular 6 for Enterprise-Ready Web Applications; Uluca, Doguhan. Packt Publishing, May 2018. [Amazon Link](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-production-ready/dp/1786462907/ref=sr_1_1?keywords=uluca&qid=1549863219&s=gateway&sr=8-1).
@@ -36,6 +37,7 @@ Doguhan Uluca is a Principal Fellow at Excella in Washington, DC and a GDE Alumn
 
 # Videos
 
+* Enterprise Applications with Angular; Adventures in Angular, October, 2023. [https://www.youtube.com/watch?v=gD9jUY9Mf9k](https://www.youtube.com/watch?v=gD9jUY9Mf9k)
 * Angular Unfiltered; Roberts, Brandon and Uluca, Doguhan. [https://youtu.be/8O38fwtDMPk](https://www.youtube.com/watch?v=8O38fwtDMPk)
 * Intro to Angular for Enterprise Ready Web Applications; Uluca, Doguhan. [https://youtu.be/5IBPCktMprI](https://www.youtube.com/watch?v=5IBPCktMprI)
 * Angular Denver '19: Architecting Angular Apps for Scalability; Uluca, Doguhan. [Pluralsight Link](https://www.pluralsight.com/courses/angular-denver-2019-session-28).
@@ -46,6 +48,8 @@ Doguhan Uluca is a Principal Fellow at Excella in Washington, DC and a GDE Alumn
 
 # Podcasts
 
+* Enterprise Applications with Angular; Adventures in Angular, October, 2023. [https://podcasts.apple.com/ph/podcast/enterprise-applications-with-angular-aia-392/id1238024888?i=1000630545041](https://podcasts.apple.com/ph/podcast/enterprise-applications-with-angular-aia-392/id1238024888?i=1000630545041)
+* How to Deliver Software with Impact; Federal Tech Podcast, March, 2023. [https://podcasts.apple.com/us/podcast/ep-59-how-to-deliver-software-with-impact-beyond-mere/id1612819978?i=1000606551248](https://podcasts.apple.com/us/podcast/ep-59-how-to-deliver-software-with-impact-beyond-mere/id1612819978?i=1000606551248)
 * Doguhan Uluca on No Speed Limits in Life; Dev.Life, September, 2022. [https://podcasts.apple.com/us/podcast/dev-life/id1576779576?i=1000578406403](https://podcasts.apple.com/us/podcast/dev-life/id1576779576?i=1000578406403)
 * Doguhan Uluca Tale: of a Turk in Tech; Dev.Life, June, 2022. [https://podcasts.apple.com/us/podcast/dev-life/id1576779576?i=1000567824473](https://podcasts.apple.com/us/podcast/dev-life/id1576779576?i=1000567824473)
 * Angular for Enterprise-Ready Web Apps; Adventures in Angular Podcast, February, 2020. [https://devchat.tv/adv-in-angular/aia-279-angular-for-enterprise-ready-web-apps-with-doguhan-uluca/](https://devchat.tv/adv-in-angular/aia-279-angular-for-enterprise-ready-web-apps-with-doguhan-uluca/)
