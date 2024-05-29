@@ -3,8 +3,10 @@
 
 > Google Developers Expert in Angular and Web Technologies (2019 - 2022).
 
-Doguhan Uluca is a Principal Fellow at Excella in Washington, DC, and a GDE Alumni. He is a speaker, author, and software development expert. Doguhan contributes to open-source software with libraries and tools published for JavaScript, Angular, Node, and MongoDB. As an author, he has published three books with Packt, including the best-selling Angular for Enterprise-Ready Web Applications, a paper on ACM, and articles on IT Pro. Doguhan is an active participant in the DC tech community, founding and organizing the Tech Talk DC and Angular DC meetups. He enjoys teaching software engineering from fundamentals to advanced design patterns with practical implementations that are easy to learn and maintain. Doguhan organized the DC Full-Stack Web Summit in 2017. He has presented at conferences, such as Ng-Conf, Angular Mix, Angular Denver, CodeStock, deliver:Agile, and Agile XP. Doguhan enjoys recording music, playing Go, and mixology.
+Doguhan Uluca is a Principal Fellow at Excella in Washington DC, leading innovation and strategic technology initiatives in GenAI and Cybersecuity. He is an industry-recognized expert in usability, mobility, performance, scalability, cybersecurity, and architecture. Doguhan is the author of the best-selling Angular for Enterprise Applications books, speaker at 30+ conferences, and an Angular GDE Alumni. Doguhan has delivered solutions for Silicon Valley startups, Fortune 50 companies, and the U.S. Federal Government. He enjoys building Lego, playing Go, and traveling.
 
+
+1. [Advisory Roles](#advisory-roles)
 1. [Websites](#websites)
 2. [Publications](#publications)
 3. [Videos](#videos)
@@ -12,6 +14,12 @@ Doguhan Uluca is a Principal Fellow at Excella in Washington, DC, and a GDE Alum
 5. [Talks](#talks)
 6. [Training](#training)
 7. [Certifications](#certifications)
+
+# Advisory Roles
+
+* Packt Publishing Technical Advisory Board (2024)
+* Technical.ly Crossmarket Readers Council (2024)
+* Angular Space Mentor (2024)
 
 # Websites
 
@@ -24,7 +32,7 @@ Doguhan Uluca is a Principal Fellow at Excella in Washington, DC, and a GDE Alum
 
 # Publications
 
-* Angular for Enterprise Applications, 3rd Edition; Uluca, Doguhan. Packt Publishing, January 2024 (planned).
+* Angular for Enterprise Applications, 3rd Edition; Uluca, Doguhan. Packt Publishing, January 2024 [Amazon Link](https://www.amazon.com/Angular-Enterprise-Applications-Router-first-architecture/dp/1805127128).
 * Angular for Enterprise-Ready Web Applications, 2nd Edition; Uluca, Doguhan. Packt Publishing, June 2020. [Amazon Link](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-production-grade/dp/1838648801/ref=sr_1_1?keywords=angular+for+enterprise&qid=1577373138&sr=8-1)
 * Building Large-Scale Web Applications with Angular; Arora, C., et al. Packt Publishing, December 2018. [Amazon Link](https://www.amazon.com/Building-Large-Scale-Applications-Angular-production-grade/dp/178995956X/ref=sr_1_4?keywords=uluca&qid=1549863219&s=gateway&sr=8-4)
 *	Angular 6 for Enterprise-Ready Web Applications; Uluca, Doguhan. Packt Publishing, May 2018. [Amazon Link](https://www.amazon.com/Angular-Enterprise-Ready-Web-Applications-production-ready/dp/1786462907/ref=sr_1_1?keywords=uluca&qid=1549863219&s=gateway&sr=8-1).
@@ -59,7 +67,8 @@ Doguhan Uluca is a Principal Fellow at Excella in Washington, DC, and a GDE Alum
 
 # Talks
 
-* Intro to Qwik: The Answer to Web App Scalability Issues, Frontrunners, March 2023. [Video](https://www.youtube.com/watch?v=QDqp_qTa4Ww&list=PLeGxIOPLk9ELZl2gt05fBQwTkNnQcwwzS&t=38s).
+* "Challenges of Building Enterprise Applications", Angular Community Meetup, May 2024.
+* "Intro to Qwik: The Answer to Web App Scalability Issues", Frontrunners, March 2023. [Video](https://www.youtube.com/watch?v=QDqp_qTa4Ww&list=PLeGxIOPLk9ELZl2gt05fBQwTkNnQcwwzS&t=38s).
 * "Five Ways to Make Sure Your Angular Code is Agile", Angular Community Meetup, April 2022. [Video](https://www.youtube.com/watch?v=VG0veoFKX_w&t=2128s).
 *	“Crafting Reliable and Testable Code with TypeScript”, Reliable Web Summit 2021.
 *	“Minimal MEAN: Full-stack TypeScript”, Angular NA Meetup, 2021.
