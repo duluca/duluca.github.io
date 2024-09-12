@@ -3,7 +3,7 @@
 
 > Google Developers Expert in Angular and Web Technologies (2019 - 2022).
 
-Doguhan Uluca is a Principal Fellow at Excella in Washington DC, leading innovation and strategic technology initiatives in GenAI and Cybersecuity. He is an industry-recognized expert in usability, mobility, performance, scalability, cybersecurity, and architecture. Doguhan is the author of the best-selling Angular for Enterprise Applications books, speaker at 30+ conferences, and an Angular GDE Alumni. Doguhan has delivered solutions for Silicon Valley startups, Fortune 50 companies, and the U.S. Federal Government. He enjoys building Lego, playing Go, and traveling.
+Doguhan Uluca is the Director of Innovation and Strategic Differentiation at Excella in Washington DC, leading initiatives in GenAI and Cybersecurity. He is an industry-recognized expert in JavaScript, usability, mobility, performance, scalability, cybersecurity, and architecture. Doguhan is the author of the best-selling Angular for Enterprise Applications books, a speaker at 30+ conferences, and a Google Developers Expert Alumni. Doguhan has delivered solutions for Silicon Valley startups, Fortune 50 companies, and the U.S. Federal Government. He enjoys building Lego, playing Go, and traveling.
 
 
 1. [Advisory Roles](#advisory-roles)
@@ -56,6 +56,7 @@ Doguhan Uluca is a Principal Fellow at Excella in Washington DC, leading innovat
 
 # Podcasts
 
+* Tech Talk DC, 2024. [https://www.youtube.com/@techtalkdc/streams](https://www.youtube.com/@techtalkdc/streams)
 * Enterprise Applications with Angular; Adventures in Angular, October, 2023. [https://podcasts.apple.com/ph/podcast/enterprise-applications-with-angular-aia-392/id1238024888?i=1000630545041](https://podcasts.apple.com/ph/podcast/enterprise-applications-with-angular-aia-392/id1238024888?i=1000630545041)
 * How to Deliver Software with Impact; Federal Tech Podcast, March, 2023. [https://podcasts.apple.com/us/podcast/ep-59-how-to-deliver-software-with-impact-beyond-mere/id1612819978?i=1000606551248](https://podcasts.apple.com/us/podcast/ep-59-how-to-deliver-software-with-impact-beyond-mere/id1612819978?i=1000606551248)
 * Doguhan Uluca on No Speed Limits in Life; Dev.Life, September, 2022. [https://podcasts.apple.com/us/podcast/dev-life/id1576779576?i=1000578406403](https://podcasts.apple.com/us/podcast/dev-life/id1576779576?i=1000578406403)
@@ -109,6 +110,7 @@ Doguhan Uluca is a Principal Fellow at Excella in Washington DC, leading innovat
 *	JavaScript and Node.JS Workshop; Uluca, Doguhan. Aug 2014.
 
 # Certifications
+*	Excella Executive Leadership Assessment Program - 2024
 *	Excella Senior Leadership Assessment Program - 2021
 *	Excella Leadership Development Program Level II (3 days) – 2017
 *	Architecting on AWS – 2017
