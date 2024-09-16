@@ -5,7 +5,6 @@
 
 Doguhan Uluca is the Director of Innovation and Strategic Differentiation at Excella in Washington DC, leading initiatives in GenAI and Cybersecurity. He is an industry-recognized expert in JavaScript, usability, mobility, performance, scalability, cybersecurity, continuous delivery, and architecture. Doguhan is the author of the best-selling Angular for Enterprise Applications books, a speaker at 30+ conferences, and a Google Developers Expert Alumni. Doguhan has delivered solutions for Silicon Valley startups, Fortune 50 companies, and the U.S. Federal Government. He enjoys building Lego, playing Go, and traveling.
 
-
 1. [Advisory Roles](#advisory-roles)
 1. [Websites](#websites)
 2. [Publications](#publications)
@@ -23,12 +22,12 @@ Doguhan Uluca is the Director of Innovation and Strategic Differentiation at Exc
 
 # Websites
 
+* Google Scholar; Google. [Doguhan Uluca Citations](https://scholar.google.com/citations?user=n0u7bI0AAAAJ)
 * Expertly Simple; Uluca, D., et al. [https://expertlysimple.io](https://expertlysimple.io)
 * Angular For Enterprise; Uluca, Doguhan. [https://AngularForEnterprise.com](https://AngularForEnterprise.com).
 * Angular Evergreen; Uluca, D., et al. [https://AngularEvergreen.com](https://AngularEvergreen.com).
 *	The JavaScript Promise; Uluca, Doguhan. [https://TheJavaScriptPromise.com](https://TheJavaScriptPromise.com). 
 *	Tech Talk DC; Uluca, D., et al. [https://TechTalkDC.com](https://TechTalkDC.com).
-* DC Full Stack Web Summit; Uluca, D., et al. [https://dcfullstack.com](https://DCFullStack.com)
 
 # Publications
 
