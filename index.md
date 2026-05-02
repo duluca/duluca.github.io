@@ -1,5 +1,5 @@
 # Doguhan Uluca
-![du](https://gravatar.com/userimage/15948620/ff27331a12bc4f7e40a68c0ec59db14f.jpeg?size=200) [LinkedIn](https://www.linkedin.com/in/duluca/) | [Twitter](https://twitter.com/intent/user?screen_name=duluca) | [GitHub](https://github.com/duluca) | [npm](https://www.npmjs.com/~duluca) | [Docker Hub](https://hub.docker.com/r/duluca/) | [Slides](https://slides.com/doguhanuluca)
+![du](https://gravatar.com/avatar/f92a80ee5598be75c5d445f0e1650b5b8ec60a0cc6d0fbaed671ac1b725141ac?v=1750133823000&size=256&d=initials) [LinkedIn](https://www.linkedin.com/in/duluca/) | [Twitter](https://twitter.com/intent/user?screen_name=duluca) | [GitHub](https://github.com/duluca) | [npm](https://www.npmjs.com/~duluca) | [Docker Hub](https://hub.docker.com/r/duluca/) | [Slides](https://slides.com/doguhanuluca)
 
 > Google Developers Expert in Angular and Web Technologies (2019 - 2022).
 
