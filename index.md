@@ -3,7 +3,7 @@
 
 > Google Developers Expert in Angular and Web Technologies (2019 - 2022).
 
-Doguhan Uluca is the Director of Innovation and Strategic Differentiation at Excella in Washington DC, leading initiatives in GenAI and Cybersecurity. He is an industry-recognized expert in JavaScript, usability, mobility, performance, scalability, cybersecurity, continuous delivery, and architecture. Doguhan is the author of the best-selling Angular for Enterprise Applications books, a speaker at 30+ conferences, and a Google Developers Expert Alumni. Doguhan has delivered solutions for Silicon Valley startups, Fortune 50 companies, and the U.S. Federal Government. He enjoys building Lego, playing Go, and traveling.
+Doguhan Uluca is Director of Software Engineering at Capital One, leading the Commercial Lending platform supporting an $87 billion loan portfolio. Based in the Washington, DC area, he is an industry-recognized expert in software architecture, performance, and scalability. Doguhan is the best-selling, internationally published author of the Angular for Enterprise books, a speaker at 30+ conferences, and an Angular GDE Alumnus. Over 20+ years, he has delivered solutions for Silicon Valley startups, Fortune 100 companies, and the US Federal Government, and is passionate about open-source contribution and teaching. Outside of work, he enjoys building Lego sets, playing Go, and traveling.
 
 1. [Advisory Roles](#advisory-roles)
 1. [Websites](#websites)
